@@ -1,0 +1,50 @@
+1️⃣ 𝗦𝗤𝗟 (𝗠𝘂𝘀𝘁 𝗺𝗮𝘀𝘁𝗲𝗿)
+Window functions, CTEs, query optimization, indexing, execution plans
+Learning: https://lnkd.in/ghzD4pMB
+Practice: https://lnkd.in/gudFeUbZ
+
+2️⃣ 𝗣𝘆𝘁𝗵𝗼𝗻 (𝗗𝗮𝘁𝗮 𝗙𝗼𝗰𝘂𝘀𝗲𝗱)
+Pandas, OOP, APIs, error handling, performance
+Learning: https://lnkd.in/gEcCvq6Z
+Practice: https://lnkd.in/gGHkAE47
+
+3️⃣ 𝗗𝗮𝘁𝗮 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴 (𝗦𝘁𝗮𝗿, 𝗦𝗖𝗗, 𝗠𝗲𝗱𝗮𝗹𝗹𝗶𝗼𝗻)
+Dimensional modeling, normalization vs denormalization
+Learning: https://lnkd.in/gBdsuRe5
+Practice: https://lnkd.in/dpHwDqNE
+
+4️⃣ 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲 (𝗖𝗹𝗼𝘂𝗱 𝗦𝘁𝗮𝗰𝗸)
+Pick ONE: Snowflake / Azure / AWS
+Snowflake: https://lnkd.in/dZPVskUR
+Azure: https://lnkd.in/gYpC44TM
+AWS: https://lnkd.in/gujBWWJD
+
+Practice: https://lnkd.in/gPbReDVh
+
+5️⃣ 𝗦𝗽𝗮𝗿𝗸 / 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀 (𝗕𝗶𝗴 𝗗𝗮𝘁𝗮)
+RDD vs DataFrame, partitioning, performance tuning
+Learning: https://lnkd.in/gRMHpcqc
+Practice: https://lnkd.in/gJ5qJyVF
+
+6️⃣ 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 (𝗥𝗲𝗮𝗹 𝗪𝗼𝗿𝗹𝗱 𝗦𝗸𝗶𝗹𝗹)
+Airflow / ADF / Prefect concepts
+Learning: https://lnkd.in/gQRyWueK
+Practice: https://lnkd.in/gW_4rvPv
+
+7️⃣ 𝗚𝗶𝘁 + 𝗗𝗲𝘃𝗢𝗽𝘀 (𝗡𝗼𝘁 𝗢𝗽𝘁𝗶𝗼𝗻𝗮𝗹)
+Branching, CI/CD, deployment basics
+Learning: https://lnkd.in/g5TT2DKM
+Practice: https://github.com/
+
+8️⃣ 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗙𝗼𝗿 𝗗𝗮𝘁𝗮
+Batch vs streaming, scalability, cost optimization
+Learning: https://lnkd.in/gUpDeM-x
+Practice: Design your own end-to-end pipeline on cloud free tier
+
+𝗧𝗵𝗲 𝗚𝗼𝗹𝗱𝗲𝗻 𝗥𝘂𝗹𝗲 👇
+
+Learn 1 concept → Implement 1 mini project → Push to GitHub → Write 1 LinkedIn post.
+
+Repeat for 90 days.
+
+That’s how you build authority + skills.
